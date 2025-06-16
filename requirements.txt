@@ -1,0 +1,8 @@
+PySimpleGUI
+time
+pandas
+numpy
+sklearn
+matplotlib
+seaborn
+shutil
